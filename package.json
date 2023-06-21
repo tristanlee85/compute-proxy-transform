@@ -1,0 +1,29 @@
+{
+  "name": "compute-proxy-transform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tristanlee85/compute-proxy-transform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tristanlee85/compute-proxy-transform/issues"
+  },
+  "homepage": "https://github.com/tristanlee85/compute-proxy-transform#readme",
+  "devDependencies": {
+    "@edgio/cli": "^7.0.21",
+    "@edgio/core": "^7.0.21",
+    "@edgio/devtools": "^7.0.21",
+    "@edgio/prefetch": "^7.0.21"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
